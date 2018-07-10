@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengaiyue/tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengaiyue/tools/issues"
+  },
+  "homepage": "https://github.com/chengaiyue/tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
